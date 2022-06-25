@@ -29,3 +29,4 @@ Remote
 - git merge {branch name} <!-- Tong hop cac branch-->
 - git branch -d {branch name} <!-- Xoa branch-->
 - git push <!-- Day tu local len remote-->
+- git fetch origin 
