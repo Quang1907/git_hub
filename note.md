@@ -9,6 +9,8 @@
 Repository (Repo)
 Branch
 Conflict <!-- Xung dot-->
+Local
+Remote
 
 # Commands
 
@@ -26,4 +28,4 @@ Conflict <!-- Xung dot-->
 - git checkout -b {branch name} <!-- Tao branch mới -->
 - git merge {branch name} <!-- Tong hop cac branch-->
 - git branch -d {branch name} <!-- Xoa branch-->
--
+- git push <!-- Day tu local len remote-->
